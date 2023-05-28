@@ -17,3 +17,7 @@ Por fim, o resultado criptografado é exibido na área de exibição.
 Já a função descriptografar() verifica qual é o valor criptografado digitado pelo usuário e, a partir dele,
 exibe a letra original correspondente na área de exibição.
 A função sumir() simplesmente oculta dois elementos HTML do rodapé da página quando acionada pelo usuário.
+
+Link para visualização: https://ysrezende40.github.io/Decodificador-de-Texto/
+
+
